@@ -1,0 +1,282 @@
+[
+  {
+    "cell": "MINICER-s1_0.05",
+    "detector": "DCTR+FLD",
+    "step": 1,
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.4718,
+    "p_e_std": 0.0037894590642992615,
+    "p_e_per_seed": [
+      0.4735,
+      0.475,
+      0.4755,
+      0.4655,
+      0.46950000000000003
+    ],
+    "p_e_reversed_mean": 0.4991,
+    "md_at_fa1_mean": 0.9864,
+    "md_at_fa1_std": 0.00402988833592198,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s2_0.05",
+    "detector": "DCTR+FLD",
+    "step": 2,
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.3157,
+    "p_e_std": 0.007922120928135334,
+    "p_e_per_seed": [
+      0.3205,
+      0.314,
+      0.31999999999999995,
+      0.301,
+      0.32299999999999995
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.9036000000000002,
+    "md_at_fa1_std": 0.019744366285095113,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s3_0.05",
+    "detector": "DCTR+FLD",
+    "step": 3,
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.2867,
+    "p_e_std": 0.009780593029055026,
+    "p_e_per_seed": [
+      0.2955,
+      0.2935,
+      0.2885,
+      0.268,
+      0.28800000000000003
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.8847999999999999,
+    "md_at_fa1_std": 0.00874985714169095,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s4_0.05",
+    "detector": "DCTR+FLD",
+    "step": 4,
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.2224,
+    "p_e_std": 0.00804611707595657,
+    "p_e_per_seed": [
+      0.229,
+      0.2275,
+      0.22199999999999998,
+      0.20700000000000002,
+      0.22649999999999998
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.7784,
+    "md_at_fa1_std": 0.023243063481391626,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s1_0.1",
+    "detector": "DCTR+FLD",
+    "step": 1,
+    "payload_bpnzac": 0.1,
+    "n_images": 2000,
+    "p_e_mean": 0.4234,
+    "p_e_std": 0.002672077843177458,
+    "p_e_per_seed": [
+      0.42100000000000004,
+      0.4275,
+      0.42000000000000004,
+      0.42400000000000004,
+      0.4245
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.9776,
+    "md_at_fa1_std": 0.005535341001239224,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s2_0.1",
+    "detector": "DCTR+FLD",
+    "step": 2,
+    "payload_bpnzac": 0.1,
+    "n_images": 2000,
+    "p_e_mean": 0.1777,
+    "p_e_std": 0.009266067126888308,
+    "p_e_per_seed": [
+      0.194,
+      0.181,
+      0.17149999999999999,
+      0.16749999999999998,
+      0.1745
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.633,
+    "md_at_fa1_std": 0.03444415770489971,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s3_0.1",
+    "detector": "DCTR+FLD",
+    "step": 3,
+    "payload_bpnzac": 0.1,
+    "n_images": 2000,
+    "p_e_mean": 0.1169,
+    "p_e_std": 0.006974238309665074,
+    "p_e_per_seed": [
+      0.12,
+      0.125,
+      0.11750000000000001,
+      0.10400000000000001,
+      0.118
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.4434,
+    "md_at_fa1_std": 0.03849987012965108,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER-s4_0.1",
+    "detector": "DCTR+FLD",
+    "step": 4,
+    "payload_bpnzac": 0.1,
+    "n_images": 2000,
+    "p_e_mean": 0.06870000000000001,
+    "p_e_std": 0.0047074409183759285,
+    "p_e_per_seed": [
+      0.07300000000000001,
+      0.0745,
+      0.065,
+      0.062,
+      0.069
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.2142,
+    "md_at_fa1_std": 0.02285957129956728,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER_0.05",
+    "detector": "DCTR+FLD",
+    "step": 6,
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.10900000000000001,
+    "p_e_std": 0.008246211251235324,
+    "p_e_per_seed": [
+      0.1095,
+      0.1165,
+      0.11,
+      0.0935,
+      0.1155
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.39180000000000004,
+    "md_at_fa1_std": 0.04181578649266327,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "MINICER_0.1",
+    "detector": "DCTR+FLD",
+    "step": 6,
+    "payload_bpnzac": 0.1,
+    "n_images": 2000,
+    "p_e_mean": 0.0125,
+    "p_e_std": 0.0013038404810405298,
+    "p_e_per_seed": [
+      0.013999999999999999,
+      0.0115,
+      0.013,
+      0.010499999999999999,
+      0.0135
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.0166,
+    "md_at_fa1_std": 0.0030724582991474435,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

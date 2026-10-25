@@ -1,0 +1,39 @@
+diff --git a/costGISS.m b/costGISS.m
+index 25cfd21..dadfca9 100644
+--- a/costGISS.m
++++ b/costGISS.m
+@@ -1,4 +1,16 @@
+-function [rhoP,rhoM] = costGISS(pcover_path,cover_path,R3,is_cover,distortion)
++function [rhoP,rhoM] = costGISS(pcover_path,cover_path,R3,is_cover,distortion,si_fix)
++% PATCHED COPY - see baselines/patched/SCRIPT/README.md. The clone is untouched.
++% si_fix (new, optional): what to do where the cover JPEG and an exact DCT of
++% the precover round a coefficient differently (|e| > 0.5), which the released
++% code prices at exactly zero:
++%   0  released behaviour (default)
++%   1  no side-information discount there
++%   2  no change allowed there (wet)
++%   3  the discount factor is floored at 0.1 everywhere
++%   4  no change allowed wherever the discount would be zero: where the two
++%      transforms disagree (|e| > 0.5) AND where the exact DCT lies on the
++%      rounding boundary (|e| = 0.5, modes (0,0), (0,4), (4,0), (4,4))
++if nargin < 6 || isempty(si_fix); si_fix = 0; end
+ %COSTGISS 
+ % distortion = 2;
+ wetConst = 10^13;
+@@ -22,10 +34,16 @@ end
+ if distortion<=1
+ %% real side-information guided distortion adjustment
+ e = coeffs_real - COEFFS;
++disagree = abs(e) > 0.5;                 % PATCH: remembered before the clip
++zero_discount = abs(e) >= 0.5 - 1e-6;    % PATCH (variant 4): disagreements and ties
+ e(e>0.5) = 0.5; e(e<-0.5) = -0.5; % image compressed with imwrite(imread) is different form that with idct(dct)
+ gamma = (1 - 2*abs(e));
++if si_fix == 1; gamma(disagree) = 1; end          % PATCH
++if si_fix == 3; gamma = max(gamma, 0.1); end       % PATCH
+ rhoP(e > 0) = gamma(e > 0).*rhoP(e > 0);
+ rhoM(e < 0) = gamma(e < 0).*rhoM(e < 0);
++if si_fix == 2; rhoP(disagree) = wetConst; rhoM(disagree) = wetConst; end   % PATCH
++if si_fix == 4; rhoP(zero_discount) = wetConst; rhoM(zero_discount) = wetConst; end   % PATCH
+ end
+ %% distortion adjustment for non-robust modification
+ if R3 ~=0

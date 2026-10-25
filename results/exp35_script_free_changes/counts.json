@@ -1,0 +1,39 @@
+{
+  "columns": [
+    "free",
+    "changes_lo",
+    "free_changes_lo",
+    "free_made_zero_lo",
+    "free_left_zero_lo",
+    "changes_hi",
+    "free_changes_hi",
+    "free_made_zero_hi",
+    "free_left_zero_hi"
+  ],
+  "payloads": [
+    0.05,
+    0.2
+  ],
+  "mean": [
+    321.7955,
+    593.1625,
+    146.702,
+    90.722,
+    0.058,
+    2213.2195,
+    147.1615,
+    90.8735,
+    0.0535
+  ],
+  "median": [
+    319.0,
+    549.0,
+    146.0,
+    92.0,
+    0.0,
+    2034.5,
+    146.0,
+    92.0,
+    0.0
+  ]
+}

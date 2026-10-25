@@ -1,0 +1,15 @@
+{
+  "p_e_mean": 0.47519999999999996,
+  "p_e_std": 0.008611620056644403,
+  "p_e_per_seed": [
+    0.491,
+    0.46799999999999997,
+    0.46699999999999997,
+    0.47600000000000003,
+    0.474
+  ],
+  "n_test_pairs": 500,
+  "grouping": "random",
+  "seed_of_grouping": 20261002,
+  "note": "Recomputed locally from the Kaggle-extracted cover features. The run's own null_test.json split covers by file number and is invalid (BOSSbase is ordered by source)."
+}

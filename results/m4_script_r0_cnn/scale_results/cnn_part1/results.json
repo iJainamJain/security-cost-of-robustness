@@ -1,0 +1,48 @@
+[
+  {
+    "cell": "SCRIPT-R0_0.2",
+    "method": "SCRIPT (R=0)",
+    "payload_bpnzac": 0.2,
+    "arm": "B",
+    "detector": "EfficientNet-B0",
+    "status": "ok",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "epochs": 40,
+    "train_minutes": 110.6,
+    "p_e_mean": 0.49393333333333334,
+    "p_e_std": 0.0013097921802925582,
+    "p_e_per_seed": [
+      0.4938,
+      0.4924,
+      0.4956
+    ],
+    "md_at_fa1_mean": 0.9893333333333333,
+    "md_at_fa1_std": 0.0004988876515698534,
+    "best_epoch_per_seed": [
+      5,
+      11,
+      30
+    ],
+    "epochs_run_per_seed": [
+      40,
+      40,
+      40
+    ],
+    "patience": null,
+    "p_e_reversed_mean": 0.4955333333333333,
+    "val_p_e_per_seed": [
+      0.482,
+      0.479,
+      0.484
+    ],
+    "p_e_chance_level": 0.4911377307454724,
+    "epoch_selection": "validation",
+    "n_train_pairs": 2000,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2500
+  }
+]

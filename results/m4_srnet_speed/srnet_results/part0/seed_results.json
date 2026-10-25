@@ -1,0 +1,24 @@
+[
+  {
+    "seed": 0,
+    "test_p_e": 0.127,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.126,
+    "md_at_fa1": 0.5116,
+    "best_epoch": 35,
+    "epochs_run": 40,
+    "epochs_asked": 40,
+    "minutes": 154.9,
+    "min_per_epoch": 3.87,
+    "n_train_pairs": 2000,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2500,
+    "epoch_selection": "validation",
+    "cell": "GMAS_0.05",
+    "method": "GMAS",
+    "payload_bpnzac": 0.05,
+    "arm": "A",
+    "detector": "SRNet",
+    "p_e_chance_level": 0.4911377307454724
+  }
+]

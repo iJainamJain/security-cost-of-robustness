@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/
+baselines/Robust_Steganography/
+baselines/patched/
+baselines/features/
+figures/figures/
+*.bin
+*.npz
+*.f64
+*.zip

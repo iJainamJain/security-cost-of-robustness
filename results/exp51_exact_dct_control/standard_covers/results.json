@@ -1,0 +1,56 @@
+[
+  {
+    "cell": "S-fix4_0.05",
+    "detector": "DCTR+FLD",
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.4588,
+    "p_e_std": 0.003295451410656822,
+    "p_e_per_seed": [
+      0.46,
+      0.45799999999999996,
+      0.4645,
+      0.4565,
+      0.455
+    ],
+    "p_e_reversed_mean": 0.4997,
+    "md_at_fa1_mean": 0.983,
+    "md_at_fa1_std": 0.0017888543819998333,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "S-fix4_0.2",
+    "detector": "DCTR+FLD",
+    "payload_bpnzac": 0.2,
+    "n_images": 2000,
+    "p_e_mean": 0.44279999999999997,
+    "p_e_std": 0.0029765752132274305,
+    "p_e_per_seed": [
+      0.439,
+      0.4455,
+      0.4415,
+      0.441,
+      0.44699999999999995
+    ],
+    "p_e_reversed_mean": 0.4998,
+    "md_at_fa1_mean": 0.976,
+    "md_at_fa1_std": 0.0038470768123342724,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

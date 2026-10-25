@@ -1,0 +1,10 @@
+{
+  "mean_p_e_released": 0.38755,
+  "mean_p_e_by_repair": {
+    "1": 0.44065,
+    "2": 0.44209999999999994,
+    "3": 0.47365
+  },
+  "chosen": 3,
+  "proceeds": true
+}

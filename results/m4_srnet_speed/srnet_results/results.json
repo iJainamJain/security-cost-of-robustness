@@ -1,0 +1,70 @@
+[
+  {
+    "cell": "GMAS_0.05",
+    "method": "GMAS",
+    "payload_bpnzac": 0.05,
+    "detector": "SRNet",
+    "status": "ok",
+    "seeds": [
+      0
+    ],
+    "p_e_mean": 0.127,
+    "p_e_std": 0.0,
+    "p_e_per_seed": [
+      0.127
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.5116,
+    "val_p_e_per_seed": [
+      0.126
+    ],
+    "best_epoch_per_seed": [
+      35
+    ],
+    "epochs_run_per_seed": [
+      40
+    ],
+    "min_per_epoch": 3.87,
+    "p_e_chance_level": 0.4911377307454724,
+    "epoch_selection": "validation",
+    "n_train_pairs": 2000,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2500,
+    "efficientnet_p_e": 0.1339,
+    "dctr_p_e": 0.1571
+  },
+  {
+    "cell": "J-UNIWARD_0.2",
+    "method": "J-UNIWARD",
+    "payload_bpnzac": 0.2,
+    "detector": "SRNet",
+    "status": "ok",
+    "seeds": [
+      0
+    ],
+    "p_e_mean": 0.2694,
+    "p_e_std": 0.0,
+    "p_e_per_seed": [
+      0.2694
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.8856,
+    "val_p_e_per_seed": [
+      0.255
+    ],
+    "best_epoch_per_seed": [
+      38
+    ],
+    "epochs_run_per_seed": [
+      40
+    ],
+    "min_per_epoch": 3.49,
+    "p_e_chance_level": 0.4911377307454724,
+    "epoch_selection": "validation",
+    "n_train_pairs": 2000,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2500,
+    "efficientnet_p_e": 0.4843,
+    "dctr_p_e": 0.3206
+  }
+]

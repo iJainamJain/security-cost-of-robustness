@@ -1,0 +1,106 @@
+[
+  {
+    "set": "free_only_0.05",
+    "variant": "free_only",
+    "payload": 0.05,
+    "p_e_mean": 0.42960000000000004,
+    "p_e_std": 0.0013564659966250547,
+    "p_e_per_seed": [
+      0.4275,
+      0.429,
+      0.4295,
+      0.4315,
+      0.4305
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.975,
+    "md_at_fa1_std": 0.004147288270665548,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "set": "no_free_0.05",
+    "variant": "no_free",
+    "payload": 0.05,
+    "p_e_mean": 0.45389999999999997,
+    "p_e_std": 0.003006659275674563,
+    "p_e_per_seed": [
+      0.4515,
+      0.45949999999999996,
+      0.4545,
+      0.4515,
+      0.4525
+    ],
+    "p_e_reversed_mean": 0.4998,
+    "md_at_fa1_mean": 0.9788,
+    "md_at_fa1_std": 0.004118252056394803,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "set": "free_only_0.2",
+    "variant": "free_only",
+    "payload": 0.2,
+    "p_e_mean": 0.42869999999999997,
+    "p_e_std": 0.003026549190084304,
+    "p_e_per_seed": [
+      0.431,
+      0.426,
+      0.42600000000000005,
+      0.427,
+      0.4335
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.9718,
+    "md_at_fa1_std": 0.005878775382679633,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "set": "no_free_0.2",
+    "variant": "no_free",
+    "payload": 0.2,
+    "p_e_mean": 0.43439999999999995,
+    "p_e_std": 0.005285830114561009,
+    "p_e_per_seed": [
+      0.426,
+      0.4395,
+      0.4305,
+      0.437,
+      0.439
+    ],
+    "p_e_reversed_mean": 0.49990000000000007,
+    "md_at_fa1_mean": 0.97,
+    "md_at_fa1_std": 0.004647580015448904,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

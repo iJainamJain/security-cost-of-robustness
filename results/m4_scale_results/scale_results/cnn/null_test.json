@@ -1,0 +1,29 @@
+{
+  "p_e_mean": 0.2886666666666666,
+  "p_e_std": 0.002054804667656303,
+  "p_e_per_seed": [
+    0.291,
+    0.28600000000000003,
+    0.289
+  ],
+  "md_at_fa1_mean": 0.6960000000000001,
+  "md_at_fa1_std": 0.026882460204874576,
+  "best_epoch_per_seed": [
+    4,
+    5,
+    4
+  ],
+  "p_e_reversed_mean": 0.49933333333333335,
+  "val_p_e_per_seed": [
+    0.27999999999999997,
+    0.29,
+    0.255
+  ],
+  "p_e_chance_level": 0.48018336351196994,
+  "epoch_selection": "validation",
+  "n_train_pairs": 400,
+  "n_val_pairs": 100,
+  "n_test_pairs": 500,
+  "null_expected": 0.48018336351196994,
+  "null_floor": 0.4542449749729724
+}

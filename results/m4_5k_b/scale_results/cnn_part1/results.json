@@ -1,0 +1,140 @@
+[
+  {
+    "cell": "J-UNIWARD_0.05",
+    "method": "J-UNIWARD",
+    "payload_bpnzac": 0.05,
+    "arm": "A",
+    "detector": "EfficientNet-B0",
+    "status": "ok",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "epochs": 40,
+    "train_minutes": 122.5,
+    "p_e_mean": 0.49679999999999996,
+    "p_e_std": 0.0005656854249492281,
+    "p_e_per_seed": [
+      0.496,
+      0.4972,
+      0.4972
+    ],
+    "md_at_fa1_mean": 0.9895999999999999,
+    "md_at_fa1_std": 0.0005656854249492281,
+    "best_epoch_per_seed": [
+      39,
+      38,
+      36
+    ],
+    "epochs_run_per_seed": [
+      40,
+      40,
+      40
+    ],
+    "patience": null,
+    "p_e_reversed_mean": 0.4966666666666666,
+    "val_p_e_per_seed": [
+      0.491,
+      0.492,
+      0.492
+    ],
+    "p_e_chance_level": 0.4911377307454724,
+    "epoch_selection": "validation",
+    "n_train_pairs": 2000,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2500
+  },
+  {
+    "cell": "ROAST_0.1",
+    "method": "ROAST-recon",
+    "payload_bpnzac": 0.1,
+    "arm": "A",
+    "detector": "EfficientNet-B0",
+    "status": "ok",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "epochs": 40,
+    "train_minutes": 134.3,
+    "p_e_mean": 0.0074,
+    "p_e_std": 0.000848528137423857,
+    "p_e_per_seed": [
+      0.0068000000000000005,
+      0.0086,
+      0.0068
+    ],
+    "md_at_fa1_mean": 0.007200000000000001,
+    "md_at_fa1_std": 8.673617379884035e-19,
+    "best_epoch_per_seed": [
+      38,
+      35,
+      35
+    ],
+    "epochs_run_per_seed": [
+      40,
+      40,
+      40
+    ],
+    "patience": null,
+    "p_e_reversed_mean": 0.5,
+    "val_p_e_per_seed": [
+      0.004,
+      0.005,
+      0.004
+    ],
+    "p_e_chance_level": 0.4911377307454724,
+    "epoch_selection": "validation",
+    "n_train_pairs": 2000,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2500
+  },
+  {
+    "cell": "SCRIPT_0.05",
+    "method": "SCRIPT",
+    "payload_bpnzac": 0.05,
+    "arm": "B",
+    "detector": "EfficientNet-B0",
+    "status": "ok",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "epochs": 40,
+    "train_minutes": 134.0,
+    "p_e_mean": 0.23576097105508867,
+    "p_e_std": 0.0026610560681952764,
+    "p_e_per_seed": [
+      0.23349339735894356,
+      0.2342937174869948,
+      0.2394957983193277
+    ],
+    "md_at_fa1_mean": 0.5820995064692543,
+    "md_at_fa1_std": 0.003272734199382483,
+    "best_epoch_per_seed": [
+      38,
+      32,
+      30
+    ],
+    "epochs_run_per_seed": [
+      40,
+      40,
+      40
+    ],
+    "patience": null,
+    "p_e_reversed_mean": 0.5,
+    "val_p_e_per_seed": [
+      0.215,
+      0.22499999999999998,
+      0.225
+    ],
+    "p_e_chance_level": 0.49113595775970803,
+    "epoch_selection": "validation",
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  }
+]

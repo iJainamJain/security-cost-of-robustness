@@ -1,0 +1,68 @@
+[
+  {
+    "method": "SCRIPT",
+    "payload": 0.05,
+    "qf": 65,
+    "p_e": 0.374,
+    "p_e_sd": 0.012364824660660946,
+    "mean_ber": 0.0,
+    "errorless": 299,
+    "n": 299,
+    "ecc": "none"
+  },
+  {
+    "method": "MINICER",
+    "payload": 0.05,
+    "qf": 65,
+    "p_e": 0.186,
+    "p_e_sd": 0.013564659966250536,
+    "mean_ber": 0.005535670684,
+    "errorless": 176,
+    "n": 300,
+    "ecc": "none"
+  },
+  {
+    "method": "SCRIPT",
+    "payload": 0.1,
+    "qf": 65,
+    "p_e": 0.13999999999999999,
+    "p_e_sd": 0.013333333333333329,
+    "mean_ber": 0.0,
+    "errorless": 299,
+    "n": 299,
+    "ecc": "none"
+  },
+  {
+    "method": "MINICER",
+    "payload": 0.1,
+    "qf": 65,
+    "p_e": 0.043333333333333335,
+    "p_e_sd": 0.011737877907772675,
+    "mean_ber": 0.0065467856976,
+    "errorless": 115,
+    "n": 300,
+    "ecc": "none"
+  },
+  {
+    "method": "SCRIPT",
+    "payload": 0.2,
+    "qf": 65,
+    "p_e": 0.028666666666666667,
+    "p_e_sd": 0.006863753427324666,
+    "mean_ber": 0.0,
+    "errorless": 299,
+    "n": 299,
+    "ecc": "none"
+  },
+  {
+    "method": "MINICER",
+    "payload": 0.2,
+    "qf": 65,
+    "p_e": 0.0013333333333333335,
+    "p_e_sd": 0.002666666666666667,
+    "mean_ber": 0.012348955907533333,
+    "errorless": 57,
+    "n": 300,
+    "ecc": "none"
+  }
+]

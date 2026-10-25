@@ -1,0 +1,9 @@
+# Python 3.12. Versions are those the results were produced with.
+numpy>=2.3
+scipy>=1.18
+scikit-learn>=1.9
+matplotlib>=3.10
+Pillow>=11.3
+jpeglib>=1.0          # JPEG DCT coefficients
+
+# The Kaggle notebooks (kaggle/) use the GPU image's own torch and install timm themselves.

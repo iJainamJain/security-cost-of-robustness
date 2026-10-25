@@ -1,0 +1,7 @@
+cover,msg_bits,usable_coeffs,bit_error_rate,status,psnr_db,seconds
+2251,280,232114,0,ok,58.9394,3.81
+2252,240,257566,0,ok,60.0035,4.89
+2253,272,240288,0,ok,58.9366,2.93
+2254,209,124561,0,ok,61.4002,2.32
+2255,462,246714,0,ok,55.5094,3.07
+2256,267,244235,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.87

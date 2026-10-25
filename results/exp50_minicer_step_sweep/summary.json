@@ -1,0 +1,106 @@
+{
+  "table": {
+    "MINICER-s1_0.05": {
+      "step": 1,
+      "payload": 0.05,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 848,
+      "mean_ber": 0.0185562288619,
+      "median_psnr": 58.116
+    },
+    "MINICER-s2_0.05": {
+      "step": 2,
+      "payload": 0.05,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1052,
+      "mean_ber": 0.009935384050659999,
+      "median_psnr": 55.4743
+    },
+    "MINICER-s3_0.05": {
+      "step": 3,
+      "payload": 0.05,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1175,
+      "mean_ber": 0.0069253952061,
+      "median_psnr": 50.5184
+    },
+    "MINICER-s4_0.05": {
+      "step": 4,
+      "payload": 0.05,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1246,
+      "mean_ber": 0.005469173720249999,
+      "median_psnr": 48.7133
+    },
+    "MINICER-s1_0.1": {
+      "step": 1,
+      "payload": 0.1,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 848,
+      "mean_ber": 0.00980433528396,
+      "median_psnr": 54.6899
+    },
+    "MINICER-s2_0.1": {
+      "step": 2,
+      "payload": 0.1,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1049,
+      "mean_ber": 0.005146353621565,
+      "median_psnr": 51.6232
+    },
+    "MINICER-s3_0.1": {
+      "step": 3,
+      "payload": 0.1,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1130,
+      "mean_ber": 0.00389714287061,
+      "median_psnr": 46.8551
+    },
+    "MINICER-s4_0.1": {
+      "step": 4,
+      "payload": 0.1,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1115,
+      "mean_ber": 0.003732377883315,
+      "median_psnr": 44.8811
+    },
+    "MINICER_0.05": {
+      "step": 6,
+      "payload": 0.05,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 1130,
+      "mean_ber": 0.0060956333314,
+      "median_psnr": 44.935
+    },
+    "MINICER_0.1": {
+      "step": 6,
+      "payload": 0.1,
+      "images": 2000,
+      "embedded": 2000,
+      "error_free": 780,
+      "mean_ber": 0.00693845618115,
+      "median_psnr": 41.1556
+    }
+  },
+  "p_e": {
+    "MINICER-s1_0.05": 0.4718,
+    "MINICER-s2_0.05": 0.3157,
+    "MINICER-s3_0.05": 0.2867,
+    "MINICER-s4_0.05": 0.2224,
+    "MINICER-s1_0.1": 0.4234,
+    "MINICER-s2_0.1": 0.1777,
+    "MINICER-s3_0.1": 0.1169,
+    "MINICER-s4_0.1": 0.06870000000000001,
+    "MINICER_0.05": 0.10900000000000001,
+    "MINICER_0.1": 0.0125
+  }
+}

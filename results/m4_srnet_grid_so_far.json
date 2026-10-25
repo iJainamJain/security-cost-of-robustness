@@ -1,0 +1,252 @@
+[
+  {
+    "cell": "J-UNIWARD_0.3",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.13906666666666667,
+    "srnet_std": 0.012290194827133085,
+    "srnet_per_seed": [
+      0.1254,
+      0.1552,
+      0.1366
+    ],
+    "effnet": 0.22413333333333332,
+    "dctr_fixed": 0.2152,
+    "dctr_tuned": 0.20059999999999997,
+    "best_detector": "SRNet",
+    "best_p_e": 0.13906666666666667
+  },
+  {
+    "cell": "J-UNIWARD_0.2",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.2138,
+    "srnet_std": 0.013158520686865492,
+    "srnet_per_seed": [
+      0.19519999999999998,
+      0.22260000000000002,
+      0.22360000000000002
+    ],
+    "effnet": 0.4842666666666666,
+    "dctr_fixed": 0.32056000000000007,
+    "dctr_tuned": 0.30704000000000004,
+    "best_detector": "SRNet",
+    "best_p_e": 0.2138
+  },
+  {
+    "cell": "J-UNIWARD_0.1",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.3348,
+    "srnet_std": 0.009034747736747657,
+    "srnet_per_seed": [
+      0.3228,
+      0.33699999999999997,
+      0.3446
+    ],
+    "effnet": 0.4965333333333333,
+    "dctr_fixed": 0.42516,
+    "dctr_tuned": 0.41864000000000007,
+    "best_detector": "SRNet",
+    "best_p_e": 0.3348
+  },
+  {
+    "cell": "J-UNIWARD_0.05",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.4175333333333333,
+    "srnet_std": 0.009284156157430534,
+    "srnet_per_seed": [
+      0.4052,
+      0.4276,
+      0.41979999999999995
+    ],
+    "effnet": 0.49679999999999996,
+    "dctr_fixed": 0.47368,
+    "dctr_tuned": 0.46636000000000005,
+    "best_detector": "SRNet",
+    "best_p_e": 0.4175333333333333
+  },
+  {
+    "cell": "GMAS_0.1",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.0248,
+    "srnet_std": 0.00579885046079537,
+    "srnet_per_seed": [
+      0.0178,
+      0.024599999999999997,
+      0.032
+    ],
+    "effnet": 0.0248,
+    "dctr_fixed": 0.020560000000000002,
+    "dctr_tuned": 0.01756,
+    "best_detector": "DCTR tuned",
+    "best_p_e": 0.01756
+  },
+  {
+    "cell": "GMAS_0.05",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.124,
+    "srnet_std": 0.016135261592755988,
+    "srnet_per_seed": [
+      0.10339999999999999,
+      0.1258,
+      0.14279999999999998
+    ],
+    "effnet": 0.13386666666666666,
+    "dctr_fixed": 0.15708,
+    "dctr_tuned": 0.14419999999999997,
+    "best_detector": "SRNet",
+    "best_p_e": 0.124
+  },
+  {
+    "cell": "ROAST_0.1",
+    "seeds": [
+      0,
+      1
+    ],
+    "srnet_mean": 0.0107,
+    "srnet_std": 0.0019000000000000006,
+    "srnet_per_seed": [
+      0.0126,
+      0.008799999999999999
+    ],
+    "effnet": 0.0074,
+    "dctr_fixed": 0.01184,
+    "dctr_tuned": 0.01032,
+    "best_detector": "EffNet",
+    "best_p_e": 0.0074
+  },
+  {
+    "cell": "ROAST_0.05",
+    "seeds": [
+      0,
+      1
+    ],
+    "srnet_mean": 0.0368,
+    "srnet_std": 0.004400000000000001,
+    "srnet_per_seed": [
+      0.0412,
+      0.0324
+    ],
+    "effnet": 0.0242,
+    "dctr_fixed": 0.08044,
+    "dctr_tuned": 0.08176,
+    "best_detector": "EffNet",
+    "best_p_e": 0.0242
+  },
+  {
+    "cell": "MINICER_0.1",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.0036666666666666666,
+    "srnet_std": 0.0009568466729604884,
+    "srnet_per_seed": [
+      0.0031999999999999997,
+      0.005,
+      0.0028
+    ],
+    "effnet": 0.0052,
+    "dctr_fixed": 0.01248,
+    "dctr_tuned": null,
+    "best_detector": "SRNet",
+    "best_p_e": 0.0036666666666666666
+  },
+  {
+    "cell": "MINICER_0.05",
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "srnet_mean": 0.04186666666666666,
+    "srnet_std": 0.002205044721138831,
+    "srnet_per_seed": [
+      0.0446,
+      0.0392,
+      0.0418
+    ],
+    "effnet": 0.052866666666666666,
+    "dctr_fixed": 0.10891999999999999,
+    "dctr_tuned": 0.09068000000000001,
+    "best_detector": "SRNet",
+    "best_p_e": 0.04186666666666666
+  },
+  {
+    "cell": "SCRIPT-R0_0.2",
+    "seeds": [
+      0,
+      1
+    ],
+    "srnet_mean": 0.40159999999999996,
+    "srnet_std": 0.00799999999999998,
+    "srnet_per_seed": [
+      0.40959999999999996,
+      0.3936
+    ],
+    "effnet": 0.49393333333333334,
+    "dctr_fixed": 0.37107999999999997,
+    "dctr_tuned": 0.3614400000000001,
+    "best_detector": "DCTR tuned",
+    "best_p_e": 0.3614400000000001
+  },
+  {
+    "cell": "SCRIPT-R0_0.1",
+    "seeds": [
+      0,
+      1
+    ],
+    "srnet_mean": 0.40559999999999996,
+    "srnet_std": 0.0,
+    "srnet_per_seed": [
+      0.40559999999999996,
+      0.40559999999999996
+    ],
+    "effnet": 0.49173333333333336,
+    "dctr_fixed": 0.37751999999999997,
+    "dctr_tuned": 0.36528,
+    "best_detector": "DCTR tuned",
+    "best_p_e": 0.36528
+  },
+  {
+    "cell": "SCRIPT-R0_0.05",
+    "seeds": [
+      0,
+      1
+    ],
+    "srnet_mean": 0.4139,
+    "srnet_std": 0.0010999999999999899,
+    "srnet_per_seed": [
+      0.4128,
+      0.415
+    ],
+    "effnet": 0.4947333333333333,
+    "dctr_fixed": 0.3898,
+    "dctr_tuned": 0.38156,
+    "best_detector": "DCTR tuned",
+    "best_p_e": 0.38156
+  }
+]

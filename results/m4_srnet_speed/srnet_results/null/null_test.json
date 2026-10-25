@@ -1,0 +1,19 @@
+{
+  "seed": 0,
+  "test_p_e": 0.48519999999999996,
+  "test_p_e_reversed": 0.494,
+  "val_p_e": 0.474,
+  "md_at_fa1": 0.9896,
+  "best_epoch": 9,
+  "epochs_run": 10,
+  "epochs_asked": 10,
+  "minutes": 20.0,
+  "min_per_epoch": 2.0,
+  "n_train_pairs": 1000,
+  "n_val_pairs": 250,
+  "n_test_pairs": 1250,
+  "epoch_selection": "validation",
+  "null_expected": 0.487466858626845,
+  "null_floor": 0.4710619813033171,
+  "detector": "SRNet"
+}

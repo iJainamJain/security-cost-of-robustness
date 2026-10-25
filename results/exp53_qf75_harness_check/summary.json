@@ -1,0 +1,60 @@
+{
+  "delivery": {
+    "0.05": {
+      "new": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1960,
+        "rate": 0.98,
+        "median_psnr_db": 52.625
+      },
+      "old": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1958,
+        "rate": 0.979,
+        "median_psnr_db": 52.5704
+      }
+    },
+    "0.1": {
+      "new": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1951,
+        "rate": 0.9755,
+        "median_psnr_db": 49.7749
+      },
+      "old": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1940,
+        "rate": 0.97,
+        "median_psnr_db": 49.7612
+      }
+    },
+    "0.2": {
+      "new": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1914,
+        "rate": 0.957,
+        "median_psnr_db": 46.8637
+      },
+      "old": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1924,
+        "rate": 0.962,
+        "median_psnr_db": 46.8843
+      }
+    }
+  },
+  "p_e": {
+    "SCRIPT75-rel_0.05": 0.3613,
+    "SCRIPT75-rel_0.1": 0.3448,
+    "SCRIPT75-rel_0.2": 0.33449999999999996,
+    "old_SCRIPT-R0_0.05": 0.363,
+    "old_SCRIPT-R0_0.1": 0.34209999999999996,
+    "old_SCRIPT-R0_0.2": 0.33330000000000004
+  }
+}

@@ -1,0 +1,1 @@
+[{"chain": ["GMAS_0.1", "GMAS_0.05"], "epochs": [50, 20], "seed": 0, "data": "/tmp/stego_data/stego_5000/dataset"}, {"chain": ["ROAST_0.1", "ROAST_0.05"], "epochs": [50, 20], "seed": 0, "data": "/tmp/stego_data/stego_5000/dataset"}]

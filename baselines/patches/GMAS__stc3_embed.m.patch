@@ -1,0 +1,13 @@
+diff --git a/stc3_embed.m b/stc3_embed.m
+index af6365a..f74eb45 100644
+--- a/stc3_embed.m
++++ b/stc3_embed.m
+@@ -1,7 +1,7 @@
+ function [suc,n_msg_bits] = stc3_embed(rs_encoded_msg,coverPath,cover_round,rho_p,rho_m,change_p,change_m,cover_QF,stegoPath)
+ 
+ %% 三元STCs 编码
+-costs = zeros(3, 86016, 'single'); %中频21个DCT系数
++costs = zeros(3, numel(rho_m), 'single'); %中频21个DCT系数
+ costs(1,:) = rho_m;        
+ costs(3,:) = rho_p;        
+ 

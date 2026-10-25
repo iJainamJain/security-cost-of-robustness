@@ -1,0 +1,19 @@
+{
+  "title": "The Security Cost of Robustness: code and results",
+  "upload_type": "software",
+  "description": "<p>Code, patches and result files for the paper <em>The Security Cost of Robustness: Measuring Robust JPEG Steganography on Two Recompression Channels</em>. It evaluates GMAS, ROAST, MINICER, SCRIPT and J-UNIWARD on one protocol (10,000 BOSSbase images, DCTR + FLD, EfficientNet-B0 and SRNet) on two recompression channels. The tables of the paper are rebuilt from the included result files. The reference implementations are not redistributed; our changes to them ship as patches against commit f1765807 of https://github.com/coriverchen/Robust_Steganography.</p>",
+  "creators": [
+    {"name": "Jain, Jainam", "affiliation": "Vidyalankar Institute of Technology, Mumbai, India", "orcid": "0009-0008-3760-4496"},
+    {"name": "Patil, Sahil Prakash", "affiliation": "Vidyalankar Institute of Technology, Mumbai, India", "orcid": "0009-0002-1619-5351"},
+    {"name": "Deshmukh, Aditya Sudhir", "affiliation": "Vidyalankar Institute of Technology, Mumbai, India", "orcid": "0009-0008-7183-3305"},
+    {"name": "Shinde, Himanshu Mahesh", "affiliation": "Vidyalankar Institute of Technology, Mumbai, India", "orcid": "0009-0007-3562-6344"},
+    {"name": "Mahajan, Nayana", "affiliation": "Vidyalankar Institute of Technology, Mumbai, India"}
+  ],
+  "keywords": ["steganography", "steganalysis", "robust steganography", "JPEG recompression", "reproducibility"],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://github.com/coriverchen/Robust_Steganography", "relation": "references", "resource_type": "software"}
+  ]
+}

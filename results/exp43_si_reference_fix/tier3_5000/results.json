@@ -1,0 +1,30 @@
+[
+  {
+    "cell": "SI-fix3_0.3",
+    "detector": "DCTR+FLD",
+    "variant": 3,
+    "payload_bpnzac": 0.3,
+    "n_images": 5000,
+    "p_e_mean": 0.42672,
+    "p_e_std": 0.0010703270528207916,
+    "p_e_per_seed": [
+      0.4256,
+      0.42579999999999996,
+      0.4282,
+      0.4278,
+      0.4262
+    ],
+    "p_e_reversed_mean": 0.49992000000000003,
+    "md_at_fa1_mean": 0.97704,
+    "md_at_fa1_std": 0.0022712111306525673,
+    "n_train_pairs": 2500,
+    "n_test_pairs": 2500,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

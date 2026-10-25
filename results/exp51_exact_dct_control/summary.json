@@ -1,0 +1,114 @@
+{
+  "info": {
+    "X-rel_0.05": {
+      "delivery": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 2000,
+        "rate": 1.0,
+        "median_psnr_db": 51.9306
+      },
+      "counts": {
+        "images": 300,
+        "kind_A": 0.0,
+        "kind_B": 84.32333333333334,
+        "changes": 591.41,
+        "changes_at_A": 0.0,
+        "changes_at_B": 38.943333333333335
+      }
+    },
+    "X-fix4_0.05": {
+      "delivery": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 2000,
+        "rate": 1.0,
+        "median_psnr_db": 52.0358
+      },
+      "counts": {
+        "images": 300,
+        "kind_A": 0.0,
+        "kind_B": 84.32333333333334,
+        "changes": 576.5033333333333,
+        "changes_at_A": 0.0,
+        "changes_at_B": 0.0
+      }
+    },
+    "S-fix4_0.05": {
+      "delivery": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 2000,
+        "rate": 1.0,
+        "median_psnr_db": 52.152
+      },
+      "counts": {
+        "images": 300,
+        "kind_A": 323.38666666666666,
+        "kind_B": 84.32333333333334,
+        "changes": 550.4966666666667,
+        "changes_at_A": 0.0,
+        "changes_at_B": 0.0
+      }
+    },
+    "X-rel_0.2": {
+      "delivery": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1999,
+        "rate": 0.9995,
+        "median_psnr_db": 46.0063
+      },
+      "counts": {
+        "images": 300,
+        "kind_A": 0.0,
+        "kind_B": 84.32333333333334,
+        "changes": 2324.3366666666666,
+        "changes_at_A": 0.0,
+        "changes_at_B": 38.55
+      }
+    },
+    "X-fix4_0.2": {
+      "delivery": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1999,
+        "rate": 0.9995,
+        "median_psnr_db": 46.0589
+      },
+      "counts": {
+        "images": 300,
+        "kind_A": 0.0,
+        "kind_B": 84.32333333333334,
+        "changes": 2310.7166666666667,
+        "changes_at_A": 0.0,
+        "changes_at_B": 0.0
+      }
+    },
+    "S-fix4_0.2": {
+      "delivery": {
+        "images": 2000,
+        "embedded": 2000,
+        "error_free": 1999,
+        "rate": 0.9995,
+        "median_psnr_db": 46.0615
+      },
+      "counts": {
+        "images": 300,
+        "kind_A": 323.38666666666666,
+        "kind_B": 84.32333333333334,
+        "changes": 2273.81,
+        "changes_at_A": 0.0,
+        "changes_at_B": 0.0
+      }
+    }
+  },
+  "p_e": {
+    "X-rel_0.05": 0.4554,
+    "X-fix4_0.05": 0.49160000000000004,
+    "X-rel_0.2": 0.4532,
+    "X-fix4_0.2": 0.4803,
+    "S-fix4_0.05": 0.4588,
+    "S-fix4_0.2": 0.44279999999999997
+  }
+}

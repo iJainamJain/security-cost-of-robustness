@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "The Security Cost of Robustness: code and results"
+type: software
+license: MIT
+authors:
+  - family-names: Jain
+    given-names: Jainam
+    affiliation: "Vidyalankar Institute of Technology, Mumbai, India"
+    orcid: "https://orcid.org/0009-0008-3760-4496"
+  - family-names: Patil
+    given-names: Sahil Prakash
+    affiliation: "Vidyalankar Institute of Technology, Mumbai, India"
+    orcid: "https://orcid.org/0009-0002-1619-5351"
+  - family-names: Deshmukh
+    given-names: Aditya Sudhir
+    affiliation: "Vidyalankar Institute of Technology, Mumbai, India"
+    orcid: "https://orcid.org/0009-0008-7183-3305"
+  - family-names: Shinde
+    given-names: Himanshu Mahesh
+    affiliation: "Vidyalankar Institute of Technology, Mumbai, India"
+    orcid: "https://orcid.org/0009-0007-3562-6344"
+  - family-names: Mahajan
+    given-names: Nayana
+    affiliation: "Vidyalankar Institute of Technology, Mumbai, India"
+keywords:
+  - steganography
+  - steganalysis
+  - robust steganography
+  - JPEG recompression

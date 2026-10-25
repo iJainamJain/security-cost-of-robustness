@@ -1,0 +1,62 @@
+{
+  "J-UNIWARD_0.05": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": null,
+    "rate": null
+  },
+  "J-UNIWARD_0.1": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": null,
+    "rate": null
+  },
+  "J-UNIWARD_0.2": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": null,
+    "rate": null
+  },
+  "GMAS_0.05": {
+    "images": 5000,
+    "embedded": 4999,
+    "error_free": 3150,
+    "rate": 0.63
+  },
+  "ROAST_0.05": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": 4895,
+    "rate": 0.979
+  },
+  "GMAS_0.1": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": 3414,
+    "rate": 0.6828
+  },
+  "ROAST_0.1": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": 4937,
+    "rate": 0.9874
+  },
+  "SCRIPT-R0_0.05": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": 4901,
+    "rate": 0.9802
+  },
+  "SCRIPT-R0_0.1": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": 4860,
+    "rate": 0.972
+  },
+  "SCRIPT-R0_0.2": {
+    "images": 5000,
+    "embedded": 5000,
+    "error_free": 4822,
+    "rate": 0.9644
+  }
+}

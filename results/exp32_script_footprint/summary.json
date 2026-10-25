@@ -1,0 +1,138 @@
+{
+  "cells": [
+    {
+      "setting": "R0",
+      "payload": 0.05,
+      "images": 1998,
+      "mean_bits": 1705.2977977977978,
+      "mean_usable": 217129.5205205205,
+      "mean_changed": 579.8718718718719,
+      "median_changed": 537.5,
+      "changes_per_bit": 0.34004141248567366,
+      "share_at_zero_ac": 0.12418693853876801,
+      "share_dc": 0.07390832257307196,
+      "share_gt1": 0.0,
+      "mean_blocks_touched": 500.32682682682685,
+      "unchanged_images": 0
+    },
+    {
+      "setting": "R0",
+      "payload": 0.1,
+      "images": 1999,
+      "mean_bits": 3408.4432216108053,
+      "mean_usable": 217152.03901950974,
+      "mean_changed": 1107.4902451225612,
+      "median_changed": 1017.0,
+      "changes_per_bit": 0.3249255372953431,
+      "share_at_zero_ac": 0.17658149315701488,
+      "share_dc": 0.07049997899608514,
+      "share_gt1": 4.516970937357292e-07,
+      "mean_blocks_touched": 834.8379189594798,
+      "unchanged_images": 0
+    },
+    {
+      "setting": "R0",
+      "payload": 0.2,
+      "images": 1999,
+      "mean_bits": 6816.379189594797,
+      "mean_usable": 217152.03901950974,
+      "mean_changed": 2171.686843421711,
+      "median_changed": 1994.0,
+      "changes_per_bit": 0.3185983031485089,
+      "share_at_zero_ac": 0.21275144533702878,
+      "share_dc": 0.06940934791792688,
+      "share_gt1": 0.0,
+      "mean_blocks_touched": 1306.23911955978,
+      "unchanged_images": 0
+    },
+    {
+      "setting": "R10",
+      "payload": 0.01,
+      "images": 1999,
+      "mean_bits": 341.2606303151576,
+      "mean_usable": 117548.05352676338,
+      "mean_changed": 108.86393196598299,
+      "median_changed": 100.0,
+      "changes_per_bit": 0.31900524788179074,
+      "share_at_zero_ac": 0.45383904898009825,
+      "share_dc": 0.0,
+      "share_gt1": 1.3785561003405034e-05,
+      "mean_blocks_touched": 98.89094547273636,
+      "unchanged_images": 1
+    },
+    {
+      "setting": "R10",
+      "payload": 0.02,
+      "images": 1997,
+      "mean_bits": 682.5868803204808,
+      "mean_usable": 117665.70856284427,
+      "mean_changed": 212.12418627941912,
+      "median_changed": 196.0,
+      "changes_per_bit": 0.31076510902146975,
+      "share_at_zero_ac": 0.5088878502025438,
+      "share_dc": 0.0,
+      "share_gt1": 6.609822195782933e-05,
+      "mean_blocks_touched": 178.5473209814722,
+      "unchanged_images": 1
+    },
+    {
+      "setting": "R10",
+      "payload": 0.05,
+      "images": 1996,
+      "mean_bits": 1706.2049098196392,
+      "mean_usable": 117724.42334669338,
+      "mean_changed": 505.71743486973946,
+      "median_changed": 456.0,
+      "changes_per_bit": 0.29639900340176506,
+      "share_at_zero_ac": 0.5802744568124809,
+      "share_dc": 0.0,
+      "share_gt1": 0.0,
+      "mean_blocks_touched": 357.17034068136275,
+      "unchanged_images": 1
+    },
+    {
+      "setting": "R10",
+      "payload": 0.1,
+      "images": 1996,
+      "mean_bits": 3411.941382765531,
+      "mean_usable": 117724.42334669338,
+      "mean_changed": 958.6122244488978,
+      "median_changed": 845.0,
+      "changes_per_bit": 0.28095799924672205,
+      "share_at_zero_ac": 0.6445779480398665,
+      "share_dc": 0.0,
+      "share_gt1": 0.0,
+      "mean_blocks_touched": 549.8612224448898,
+      "unchanged_images": 0
+    },
+    {
+      "setting": "R10",
+      "payload": 0.2,
+      "images": 1993,
+      "mean_bits": 6825.320622177622,
+      "mean_usable": 117896.2880080281,
+      "mean_changed": 1807.7501254390365,
+      "median_changed": 1569.0,
+      "changes_per_bit": 0.2648593707913275,
+      "share_at_zero_ac": 0.7174392133330151,
+      "share_dc": 0.0,
+      "share_gt1": 0.0,
+      "mean_blocks_touched": 784.9237330657301,
+      "unchanged_images": 0
+    }
+  ],
+  "fits": {
+    "R0": {
+      "images": 1998,
+      "intercept_mean": 47.35525074148048,
+      "intercept_median": 46.34656761162004,
+      "intercept_share_of_smallest_median": 0.08967416746111567
+    },
+    "R10": {
+      "images": 1996,
+      "intercept_mean": 41.35918094397746,
+      "intercept_median": 41.8337028454003,
+      "intercept_share_of_smallest_median": 0.4128010853936626
+    }
+  }
+}

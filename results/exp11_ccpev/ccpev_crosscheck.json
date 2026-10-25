@@ -1,0 +1,50 @@
+[
+  {
+    "method": "J-UNIWARD",
+    "payload": 0.1,
+    "features": "CCPEV",
+    "p_e": 0.47266666666666657,
+    "p_e_sd": 0.008793937305515262,
+    "n": 300
+  },
+  {
+    "method": "GMAS",
+    "payload": 0.1,
+    "features": "CCPEV",
+    "p_e": 0.3513333333333334,
+    "p_e_sd": 0.014079141387961944,
+    "n": 300
+  },
+  {
+    "method": "ROAST-recon",
+    "payload": 0.1,
+    "features": "CCPEV",
+    "p_e": 0.1933333333333333,
+    "p_e_sd": 0.017384539747207065,
+    "n": 300
+  },
+  {
+    "method": "J-UNIWARD",
+    "payload": 0.2,
+    "features": "CCPEV",
+    "p_e": 0.47333333333333333,
+    "p_e_sd": 0.007302967433402222,
+    "n": 300
+  },
+  {
+    "method": "GMAS",
+    "payload": 0.2,
+    "features": "CCPEV",
+    "p_e": 0.15733333333333333,
+    "p_e_sd": 0.016786237749352236,
+    "n": 300
+  },
+  {
+    "method": "ROAST-recon",
+    "payload": 0.2,
+    "features": "CCPEV",
+    "p_e": 0.08466666666666668,
+    "p_e_sd": 0.013266499161421601,
+    "n": 300
+  }
+]

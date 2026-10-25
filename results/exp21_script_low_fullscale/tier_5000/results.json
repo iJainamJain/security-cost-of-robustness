@@ -1,0 +1,157 @@
+[
+  {
+    "cell": "SCRIPT_0.01",
+    "method": "SCRIPT",
+    "R": 10,
+    "payload_bpnzac": 0.01,
+    "detector": "DCTR+FLD",
+    "n_images": 5000,
+    "null_p_e": 0.4837599999999999,
+    "null_sd": 0.004843800161030595,
+    "p_e_mean": 0.4722799999999999,
+    "p_e_std": 0.002337862271392404,
+    "p_e_per_seed": [
+      0.4728,
+      0.472,
+      0.4748,
+      0.4738,
+      0.46799999999999997
+    ],
+    "p_e_reversed_mean": 0.49944000000000005,
+    "md_at_fa1_mean": 0.98688,
+    "md_at_fa1_std": 0.0029437391188758518,
+    "n_train_pairs": 2500,
+    "n_test_pairs": 2500,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "SCRIPT_0.02",
+    "method": "SCRIPT",
+    "R": 10,
+    "payload_bpnzac": 0.02,
+    "detector": "DCTR+FLD",
+    "n_images": 5000,
+    "null_p_e": 0.4837599999999999,
+    "null_sd": 0.004843800161030595,
+    "p_e_mean": 0.40308,
+    "p_e_std": 0.0015051910177781356,
+    "p_e_per_seed": [
+      0.4048,
+      0.4006,
+      0.4024,
+      0.4044,
+      0.4032
+    ],
+    "p_e_reversed_mean": 0.49992000000000003,
+    "md_at_fa1_mean": 0.95992,
+    "md_at_fa1_std": 0.0057544417626734365,
+    "n_train_pairs": 2499,
+    "n_test_pairs": 2500,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "SCRIPT-R0_0.05",
+    "method": "SCRIPT",
+    "R": 0,
+    "payload_bpnzac": 0.05,
+    "detector": "DCTR+FLD",
+    "n_images": 5000,
+    "null_p_e": 0.4837599999999999,
+    "null_sd": 0.004843800161030595,
+    "p_e_mean": 0.3898,
+    "p_e_std": 0.0036726012579641628,
+    "p_e_per_seed": [
+      0.38580000000000003,
+      0.38980000000000004,
+      0.3936,
+      0.3856,
+      0.3942
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.95808,
+    "md_at_fa1_std": 0.002597229292919691,
+    "n_train_pairs": 2500,
+    "n_test_pairs": 2500,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "SCRIPT-R0_0.1",
+    "method": "SCRIPT",
+    "R": 0,
+    "payload_bpnzac": 0.1,
+    "detector": "DCTR+FLD",
+    "n_images": 5000,
+    "null_p_e": 0.4837599999999999,
+    "null_sd": 0.004843800161030595,
+    "p_e_mean": 0.37751999999999997,
+    "p_e_std": 0.0043314662644421,
+    "p_e_per_seed": [
+      0.3728,
+      0.3816,
+      0.3722,
+      0.3784,
+      0.3826
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.9542400000000001,
+    "md_at_fa1_std": 0.0045789081668013275,
+    "n_train_pairs": 2500,
+    "n_test_pairs": 2500,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "SCRIPT-R0_0.2",
+    "method": "SCRIPT",
+    "R": 0,
+    "payload_bpnzac": 0.2,
+    "detector": "DCTR+FLD",
+    "n_images": 5000,
+    "null_p_e": 0.4837599999999999,
+    "null_sd": 0.004843800161030595,
+    "p_e_mean": 0.37107999999999997,
+    "p_e_std": 0.0021451340284467098,
+    "p_e_per_seed": [
+      0.372,
+      0.3712,
+      0.3698,
+      0.368,
+      0.3744
+    ],
+    "p_e_reversed_mean": 0.5,
+    "md_at_fa1_mean": 0.9476799999999999,
+    "md_at_fa1_std": 0.002976172038038097,
+    "n_train_pairs": 2500,
+    "n_test_pairs": 2500,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

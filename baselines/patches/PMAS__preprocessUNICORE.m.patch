@@ -1,0 +1,13 @@
+diff --git a/preprocessUNICORE.m b/preprocessUNICORE.m
+index 25284fd..b9b6297 100644
+--- a/preprocessUNICORE.m
++++ b/preprocessUNICORE.m
+@@ -24,7 +24,7 @@ end
+ fun = @(x) idct2(x.data.*C_QUANT);
+ spa_uq = blockproc(C_COEFFS,[8 8],fun);
+ if ~exist(afterchannel_cover_path,'file')
+-    S_STRUCT = JPEGrecompress(cover_path,afterchannel_cover_path,attack_QF);
++    S_STRUCT = JPEGrecompress(cover_path,afterchannel_cover_path,attack_QF,1,0);
+ else
+     S_STRUCT = jpeg_read(afterchannel_cover_path);
+ end

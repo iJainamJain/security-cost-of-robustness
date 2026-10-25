@@ -1,0 +1,113 @@
+[
+  {
+    "stage": "SCRIPT_0.05",
+    "seeds": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "p_e_mean": 0.234593837535014,
+    "p_e_std": 0.0023863266190229104,
+    "p_e_per_seed": [
+      0.23349339735894356,
+      0.2342937174869948,
+      0.23209283713485396,
+      0.23849539815926368
+    ],
+    "transfer_p_e_mean": null,
+    "caught_at_fa1_mean": 0.4131652661064426,
+    "best_epoch_per_seed": [
+      38,
+      31,
+      38,
+      33
+    ],
+    "val_p_e_per_seed": [
+      0.215,
+      0.22699999999999998,
+      0.22599999999999998,
+      0.223
+    ],
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499,
+    "epoch_selection": "validation",
+    "from_scratch_p_e": 0.2358,
+    "dctr_p_e": 0.2304
+  },
+  {
+    "stage": "SCRIPT_0.02",
+    "seeds": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "p_e_mean": 0.37620048019207686,
+    "p_e_std": 0.003857382680031627,
+    "p_e_per_seed": [
+      0.3779511804721889,
+      0.37655062024809927,
+      0.36994797919167666,
+      0.3803521408563425
+    ],
+    "transfer_p_e_mean": 0.41231492597038816,
+    "caught_at_fa1_mean": 0.18357342937174867,
+    "best_epoch_per_seed": [
+      23,
+      17,
+      12,
+      12
+    ],
+    "val_p_e_per_seed": [
+      0.348,
+      0.363,
+      0.366,
+      0.356
+    ],
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499,
+    "epoch_selection": "validation",
+    "from_scratch_p_e": 0.3963,
+    "dctr_p_e": 0.4031
+  },
+  {
+    "stage": "SCRIPT_0.01",
+    "seeds": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "p_e_mean": 0.4424769907963185,
+    "p_e_std": 0.0021479502354525624,
+    "p_e_per_seed": [
+      0.4403761504601841,
+      0.44337735094037617,
+      0.4405762304921969,
+      0.445578231292517
+    ],
+    "transfer_p_e_mean": 0.4501300520208083,
+    "caught_at_fa1_mean": 0.07613045218087236,
+    "best_epoch_per_seed": [
+      13,
+      9,
+      22,
+      1
+    ],
+    "val_p_e_per_seed": [
+      0.423,
+      0.429,
+      0.434,
+      0.41300000000000003
+    ],
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499,
+    "epoch_selection": "validation",
+    "from_scratch_p_e": 0.4959,
+    "dctr_p_e": 0.4723
+  }
+]

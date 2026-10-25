@@ -1,0 +1,1 @@
+[{"chain": ["J-UNIWARD_0.3", "J-UNIWARD_0.2", "J-UNIWARD_0.1", "J-UNIWARD_0.05"], "epochs": [60, 25, 25, 25], "seed": 0, "data": "/tmp/stego_data/stego_BOSSbase256_5000/dataset"}, {"chain": ["SCRIPT-R0_0.1", "SCRIPT-R0_0.05"], "epochs": [50, 20], "seed": 0, "data": "/tmp/stego_data/stego_BOSSbase256_5000/dataset"}]

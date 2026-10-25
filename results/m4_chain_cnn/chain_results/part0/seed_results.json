@@ -1,0 +1,114 @@
+[
+  {
+    "seed": 0,
+    "stage": "SCRIPT_0.05",
+    "stage_index": 0,
+    "epochs": 40,
+    "test_p_e": 0.23349339735894356,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.215,
+    "md_at_fa1": 0.5866346538615446,
+    "best_epoch": 38,
+    "transfer": null,
+    "minutes": 43.1,
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  },
+  {
+    "seed": 0,
+    "stage": "SCRIPT_0.02",
+    "stage_index": 1,
+    "epochs": 25,
+    "test_p_e": 0.3779511804721889,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.348,
+    "md_at_fa1": 0.8279311724689876,
+    "best_epoch": 23,
+    "transfer": {
+      "test_p_e": 0.41616646658663464,
+      "val_p_e": 0.40299999999999997,
+      "md_at_fa1": 0.9091636654661864
+    },
+    "minutes": 25.3,
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  },
+  {
+    "seed": 0,
+    "stage": "SCRIPT_0.01",
+    "stage_index": 2,
+    "epochs": 25,
+    "test_p_e": 0.4403761504601841,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.423,
+    "md_at_fa1": 0.9267707082833133,
+    "best_epoch": 13,
+    "transfer": {
+      "test_p_e": 0.4519807923169267,
+      "val_p_e": 0.44399999999999995,
+      "md_at_fa1": 0.9399759903961584
+    },
+    "minutes": 23.8,
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  },
+  {
+    "seed": 2,
+    "stage": "SCRIPT_0.05",
+    "stage_index": 0,
+    "epochs": 40,
+    "test_p_e": 0.23209283713485396,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.22599999999999998,
+    "md_at_fa1": 0.5838335334133653,
+    "best_epoch": 38,
+    "transfer": null,
+    "minutes": 41.5,
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  },
+  {
+    "seed": 2,
+    "stage": "SCRIPT_0.02",
+    "stage_index": 1,
+    "epochs": 25,
+    "test_p_e": 0.36994797919167666,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.366,
+    "md_at_fa1": 0.7991196478591437,
+    "best_epoch": 12,
+    "transfer": {
+      "test_p_e": 0.40556222488995597,
+      "val_p_e": 0.408,
+      "md_at_fa1": 0.8975590236094437
+    },
+    "minutes": 23.7,
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  },
+  {
+    "seed": 2,
+    "stage": "SCRIPT_0.01",
+    "stage_index": 2,
+    "epochs": 25,
+    "test_p_e": 0.4405762304921969,
+    "test_p_e_reversed": 0.5,
+    "val_p_e": 0.434,
+    "md_at_fa1": 0.9175670268107243,
+    "best_epoch": 22,
+    "transfer": {
+      "test_p_e": 0.4471788715486194,
+      "val_p_e": 0.449,
+      "md_at_fa1": 0.9315726290516206
+    },
+    "minutes": 24.3,
+    "n_train_pairs": 1999,
+    "n_val_pairs": 500,
+    "n_test_pairs": 2499
+  }
+]

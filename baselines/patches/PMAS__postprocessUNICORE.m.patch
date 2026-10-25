@@ -1,0 +1,13 @@
+diff --git a/postprocessUNICORE.m b/postprocessUNICORE.m
+index d9b7a40..9d56042 100644
+--- a/postprocessUNICORE.m
++++ b/postprocessUNICORE.m
+@@ -6,7 +6,7 @@ C_STRUCT = jpeg_read(stego_path);
+ stego = C_STRUCT.coef_arrays{1};
+ C_QUANT = C_STRUCT.quant_tables{1}; 
+ 
+-S_STRUCT = JPEGrecompress(stego_path,afterchannel_stego_path,attack_QF);
++S_STRUCT = JPEGrecompress(stego_path,afterchannel_stego_path,attack_QF,1,0);
+ afterchannel_stego = S_STRUCT.coef_arrays{1};
+ S_QUANT = S_STRUCT.quant_tables{1}; 
+ comp_modify = double(real_stego)~=double(afterchannel_stego);

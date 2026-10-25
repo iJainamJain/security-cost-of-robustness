@@ -1,0 +1,122 @@
+[
+  {
+    "method": "J-UNIWARD",
+    "payload": 0.05,
+    "attack_qf": 71,
+    "p_e": 0.4753333333333333,
+    "p_e_sd": 0.003399346342395179,
+    "mean_ber": 0.0,
+    "errorless": 300,
+    "n": 300
+  },
+  {
+    "method": "GMAS",
+    "payload": 0.05,
+    "attack_qf": 71,
+    "p_e": 0.24266666666666667,
+    "p_e_sd": 0.013232955494186125,
+    "mean_ber": 0.014005353454,
+    "errorless": 202,
+    "n": 300
+  },
+  {
+    "method": "ROAST-recon",
+    "payload": 0.05,
+    "attack_qf": 71,
+    "p_e": 0.12533333333333335,
+    "p_e_sd": 0.012036980056845191,
+    "mean_ber": 0.0,
+    "errorless": 300,
+    "n": 300
+  },
+  {
+    "method": "J-UNIWARD",
+    "payload": 0.1,
+    "attack_qf": 71,
+    "p_e": 0.454,
+    "p_e_sd": 0.003887301263230203,
+    "mean_ber": 0.0,
+    "errorless": 300,
+    "n": 300
+  },
+  {
+    "method": "GMAS",
+    "payload": 0.1,
+    "attack_qf": 71,
+    "p_e": 0.06533333333333333,
+    "p_e_sd": 0.013266499161421596,
+    "mean_ber": 0.005949384792,
+    "errorless": 225,
+    "n": 300
+  },
+  {
+    "method": "ROAST-recon",
+    "payload": 0.1,
+    "attack_qf": 71,
+    "p_e": 0.034666666666666665,
+    "p_e_sd": 0.010241527663824813,
+    "mean_ber": 9.324009333333333e-05,
+    "errorless": 299,
+    "n": 300
+  },
+  {
+    "method": "J-UNIWARD",
+    "payload": 0.2,
+    "attack_qf": 71,
+    "p_e": 0.372,
+    "p_e_sd": 0.010241527663824792,
+    "mean_ber": 0.0,
+    "errorless": 300,
+    "n": 300
+  },
+  {
+    "method": "GMAS",
+    "payload": 0.2,
+    "attack_qf": 71,
+    "p_e": 0.002666666666666667,
+    "p_e_sd": 0.0013333333333333335,
+    "mean_ber": 0.003582220972433333,
+    "errorless": 218,
+    "n": 300
+  },
+  {
+    "method": "ROAST-recon",
+    "payload": 0.2,
+    "attack_qf": 71,
+    "p_e": 0.0006666666666666668,
+    "p_e_sd": 0.0013333333333333335,
+    "mean_ber": 5.668934333333334e-06,
+    "errorless": 299,
+    "n": 300
+  },
+  {
+    "method": "J-UNIWARD",
+    "payload": 0.3,
+    "attack_qf": 71,
+    "p_e": 0.28933333333333333,
+    "p_e_sd": 0.014204850501775014,
+    "mean_ber": 0.0,
+    "errorless": 300,
+    "n": 300
+  },
+  {
+    "method": "GMAS",
+    "payload": 0.3,
+    "attack_qf": 71,
+    "p_e": 0.0,
+    "p_e_sd": 0.0,
+    "mean_ber": 0.0027367403377666667,
+    "errorless": 219,
+    "n": 300
+  },
+  {
+    "method": "ROAST-recon",
+    "payload": 0.3,
+    "attack_qf": 71,
+    "p_e": 0.0,
+    "p_e_sd": 0.0,
+    "mean_ber": 3.442735593333333e-05,
+    "errorless": 298,
+    "n": 300
+  }
+]

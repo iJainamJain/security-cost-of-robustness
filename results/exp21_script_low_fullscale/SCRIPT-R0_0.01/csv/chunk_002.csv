@@ -1,0 +1,251 @@
+cover,msg_bits,usable_coeffs,bit_error_rate,status,psnr_db,seconds
+501,338,258466,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,5.10
+502,430,122521,0,ok,58.0217,2.33
+503,609,227832,0,ok,53.5527,3.04
+504,284,220793,0,ok,56.8028,3.53
+505,438,238967,0,ok,54.3824,2.71
+506,215,256237,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.82
+507,520,228691,0,ok,55.3985,2.45
+508,711,254307,0,ok,50.7641,2.57
+509,462,227425,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.58
+510,200,183850,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.24
+511,422,197906,0,ok,55.9578,2.65
+512,433,216436,0,ok,56.0296,2.50
+513,237,224068,0,ok,59.6813,3.74
+514,281,256885,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.83
+515,420,246436,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.78
+516,478,240363,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.61
+517,511,228142,0,ok,53.7628,2.40
+518,370,226293,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.71
+519,323,254876,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.81
+520,461,200544,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.36
+521,244,248810,0,ok,58.3234,3.92
+522,372,216020,0,ok,56.1301,2.60
+523,392,257055,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.82
+524,441,235801,0,ok,56.5521,2.42
+525,333,259443,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.83
+526,508,213384,0,ok,54.9378,2.37
+527,283,256343,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.77
+528,177,235514,0,ok,60.9452,2.76
+529,318,255505,0,ok,57.4332,3.98
+530,313,205767,0,ok,58.3608,2.63
+531,240,223620,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.58
+532,337,226768,0,ok,57.8903,3.77
+533,176,255565,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.79
+534,218,231810,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.68
+535,315,241415,0,ok,57.1588,3.98
+536,591,201534,0,ok,52.9123,2.36
+537,441,240847,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.72
+538,210,184346,0,ok,60.3561,2.38
+539,544,243962,0,ok,54.3648,3.39
+540,238,251042,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.77
+541,327,194789,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.30
+542,308,217559,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.50
+543,295,172494,0,ok,57.5813,2.41
+544,235,254936,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.84
+545,298,188712,0,ok,58.6880,3.46
+546,225,249535,0,ok,58.9540,2.52
+547,596,100749,0,ok,54.8395,2.06
+548,327,230440,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.62
+549,60,161090,,Unexpected Standard exception from MEX file. What() is:The message cannot be longer than t,,2.04
+550,429,155478,0,ok,55.2475,2.45
+551,487,200267,0,ok,54.3749,2.27
+552,374,228556,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.59
+553,200,247598,0,ok,59.4353,3.84
+554,243,232353,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.48
+555,380,231967,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,4.08
+556,224,237205,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,4.16
+557,395,195855,0,ok,56.6298,2.88
+558,383,261554,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,4.04
+559,396,254092,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.84
+560,354,226229,0,ok,58.2438,2.35
+561,660,200387,0,ok,52.6389,2.30
+562,431,236829,0,ok,55.9988,2.52
+563,265,203097,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.33
+564,231,258752,0,ok,60.0909,3.08
+565,362,257907,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.94
+566,298,194863,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.28
+567,430,235737,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.84
+568,420,249154,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.66
+569,392,240322,0,ok,56.0460,2.38
+570,633,259844,0,ok,52.2602,2.47
+571,230,262129,0,ok,58.3088,3.56
+572,368,257926,0,ok,57.6175,3.98
+573,327,229882,0,ok,56.9843,2.35
+574,457,245523,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.62
+575,399,195634,0,ok,56.1045,2.29
+576,269,244328,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.64
+577,344,204570,0,ok,56.0146,2.27
+578,271,244513,0,ok,58.5038,3.91
+579,477,222072,0,ok,55.4179,2.38
+580,336,233780,0,ok,57.7315,2.36
+581,215,137755,0,ok,60.3121,2.88
+582,381,197776,0,ok,57.4869,3.16
+583,330,243903,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,4.08
+584,216,256908,0,ok,60.4716,2.42
+585,347,164154,0,ok,56.5124,2.84
+586,364,212513,0,ok,57.3574,3.58
+587,97,126888,0,ok,62.5175,2.08
+588,469,262078,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.74
+589,346,209262,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.46
+590,412,242271,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.60
+591,213,247897,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.68
+592,580,216980,0,ok,53.2320,2.32
+593,290,176751,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.09
+594,368,229002,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.49
+595,717,250821,0,ok,51.2003,2.43
+596,221,232919,0,ok,60.6371,2.68
+597,468,255862,0,ok,56.4640,3.36
+598,340,248788,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.72
+599,412,240270,0,ok,55.9197,3.60
+600,356,207182,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.33
+601,372,249277,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.69
+602,276,194968,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.29
+603,169,230756,0,ok,60.2023,2.85
+604,351,214895,0,ok,56.6091,2.66
+605,277,187157,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.30
+606,308,237568,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.88
+607,604,251832,0,ok,54.4775,3.33
+608,534,211735,0,ok,53.8043,2.30
+609,338,258604,0,ok,57.1520,3.85
+610,462,243002,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.63
+611,198,172896,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.02
+612,410,239535,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.64
+613,283,258973,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.77
+614,488,253573,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.74
+615,376,210947,0,ok,55.9952,3.20
+616,492,243111,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.78
+617,480,248833,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.65
+618,678,239656,0,ok,51.8465,2.38
+619,418,261830,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.78
+620,487,257094,0,ok,52.3645,2.43
+621,393,257935,0,ok,54.5945,3.49
+622,136,200002,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.27
+623,419,259468,0,ok,55.1880,4.02
+624,765,217528,0,ok,50.7710,2.32
+625,143,81929,0,ok,60.8151,2.11
+626,677,199960,0,ok,51.6702,2.31
+627,219,230710,0,ok,59.6813,2.83
+628,231,201053,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.31
+629,432,231391,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.60
+630,251,262090,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.82
+631,627,216806,0,ok,53.6810,2.37
+632,532,113070,0,ok,54.2187,2.11
+633,425,255228,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.85
+634,283,164645,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.25
+635,291,251449,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.72
+636,157,136538,0,ok,62.1467,2.74
+637,386,247207,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.66
+638,128,156062,0,ok,60.8059,2.33
+639,333,241645,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.61
+640,60,262089,0,ok,62.3471,2.44
+641,375,169355,0,ok,56.5735,2.26
+642,313,227284,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.60
+643,329,261785,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.78
+644,164,105273,0,ok,60.9499,2.34
+645,214,234167,0,ok,59.5915,2.57
+646,237,235976,0,ok,60.0657,2.96
+647,317,260495,0,ok,56.8193,3.88
+648,290,232755,0,ok,59.0007,3.79
+649,520,220324,0,ok,54.2917,2.61
+650,440,243380,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.74
+651,185,111760,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,2.63
+652,452,201751,0,ok,55.4946,2.32
+653,129,248864,0,ok,61.0465,3.66
+654,244,195140,0,ok,60.4915,2.67
+655,339,181360,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.18
+656,400,254450,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.73
+657,630,258529,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.80
+658,384,254825,0,ok,56.2063,3.53
+659,283,172754,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.03
+660,565,237680,0,ok,53.1843,2.44
+661,453,232359,0,ok,55.0586,2.44
+662,275,253619,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.76
+663,344,236338,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.61
+664,268,126239,0,ok,57.5984,2.32
+665,372,179906,0,ok,56.1804,2.80
+666,164,260937,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.78
+667,467,225085,0,ok,54.0325,2.33
+668,305,193249,0,ok,57.0901,3.27
+669,407,184352,0,ok,55.7277,2.66
+670,175,262138,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.83
+671,468,227374,0,ok,54.6967,2.49
+672,187,260303,0,ok,60.4846,2.78
+673,712,205436,0,ok,51.7085,2.29
+674,320,211290,0,ok,57.3290,3.32
+675,305,204455,0,ok,58.2674,3.26
+676,129,251707,0,ok,62.5509,3.36
+677,314,202344,0,ok,56.7543,2.80
+678,752,128809,0,ok,53.0774,2.04
+679,320,253828,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.69
+680,434,202039,0,ok,54.8634,2.28
+681,377,245407,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.64
+682,510,206036,0,ok,55.4684,2.28
+683,283,235820,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.58
+684,264,252552,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.71
+685,385,191281,0,ok,55.6406,2.26
+686,329,185769,0,ok,58.0658,3.02
+687,537,219266,0,ok,54.0136,2.46
+688,442,227500,0,ok,55.0259,2.94
+689,519,255990,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.85
+690,77,235757,0.4025974,ok,26.9301,3.27
+691,386,253315,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.87
+692,434,231945,0,ok,54.5523,2.52
+693,590,233552,0,ok,53.3941,2.48
+694,772,252095,0,ok,51.6080,2.66
+695,355,215045,0,ok,57.0409,3.10
+696,232,157983,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,2.98
+697,450,209409,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.64
+698,738,145685,0,ok,51.4930,2.19
+699,354,259216,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,4.09
+700,458,203809,0,ok,55.2875,2.83
+701,650,211940,0,ok,53.2925,2.41
+702,288,247163,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.97
+703,338,74381,0,ok,55.5889,1.88
+704,445,219649,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.47
+705,534,199575,0,ok,55.7371,2.30
+706,251,258052,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.74
+707,475,247307,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.69
+708,237,238372,0,ok,59.3382,2.97
+709,443,262013,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.80
+710,111,260237,0,ok,62.6086,2.74
+711,230,262039,0,ok,58.8439,3.31
+712,222,232193,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.53
+713,431,240785,0,ok,55.8328,2.56
+714,544,230275,0,ok,53.8566,2.52
+715,421,253220,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.71
+716,442,255936,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,4.05
+717,499,241127,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.77
+718,385,222041,0,ok,55.9278,2.35
+719,156,46202,0,ok,62.1350,1.79
+720,520,236174,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.57
+721,212,43708,0,ok,61.8755,1.80
+722,292,252469,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.72
+723,699,222443,0,ok,51.7101,2.34
+724,134,260826,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.85
+725,303,219379,0,ok,57.0897,2.86
+726,288,240785,0,ok,56.9633,3.72
+727,295,255844,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.73
+728,509,222409,0,ok,54.3580,2.34
+729,199,246787,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.71
+730,415,217123,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.42
+731,366,261951,0,ok,57.1148,3.36
+732,283,258985,0,ok,58.7458,3.58
+733,708,207497,0,ok,52.1545,2.32
+734,311,221792,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.58
+735,499,170103,0,ok,53.7030,2.30
+736,364,244731,0,ok,56.4646,2.66
+737,378,235371,0,ok,56.6208,2.54
+738,303,240404,0,ok,57.6847,3.16
+739,421,199026,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.43
+740,380,203712,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.32
+741,566,212288,0,ok,54.1450,2.35
+742,72,211669,0,ok,64.1162,2.34
+743,870,132100,0,ok,51.4545,2.12
+744,345,259572,0,ok,55.1813,2.78
+745,543,225639,0,ok,54.0709,2.50
+746,462,235849,0,ok,55.6965,2.39
+747,306,223731,0,ok,57.2975,2.40
+748,406,198991,0,ok,56.1937,2.31
+749,541,239100,,Unexpected Standard exception from MEX file. What() is:Maximum number of trials in layered,,3.63
+750,428,220756,0,ok,55.6080,3.26

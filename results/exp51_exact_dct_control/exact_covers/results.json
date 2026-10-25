@@ -1,0 +1,110 @@
+[
+  {
+    "cell": "X-rel_0.05",
+    "detector": "DCTR+FLD",
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.4554,
+    "p_e_std": 0.0016552945357246715,
+    "p_e_per_seed": [
+      0.4535,
+      0.45799999999999996,
+      0.4565,
+      0.45499999999999996,
+      0.454
+    ],
+    "p_e_reversed_mean": 0.4997,
+    "md_at_fa1_mean": 0.9818,
+    "md_at_fa1_std": 0.004261455150532507,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "X-fix4_0.05",
+    "detector": "DCTR+FLD",
+    "payload_bpnzac": 0.05,
+    "n_images": 2000,
+    "p_e_mean": 0.49160000000000004,
+    "p_e_std": 0.004176122603564234,
+    "p_e_per_seed": [
+      0.495,
+      0.49450000000000005,
+      0.4925,
+      0.4835,
+      0.49250000000000005
+    ],
+    "p_e_reversed_mean": 0.49190000000000006,
+    "md_at_fa1_mean": 0.9865999999999999,
+    "md_at_fa1_std": 0.0024979991993593614,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "X-rel_0.2",
+    "detector": "DCTR+FLD",
+    "payload_bpnzac": 0.2,
+    "n_images": 2000,
+    "p_e_mean": 0.4532,
+    "p_e_std": 0.004467661580737721,
+    "p_e_per_seed": [
+      0.4495,
+      0.46049999999999996,
+      0.4525,
+      0.4555,
+      0.448
+    ],
+    "p_e_reversed_mean": 0.4995,
+    "md_at_fa1_mean": 0.982,
+    "md_at_fa1_std": 0.003687817782917158,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "cell": "X-fix4_0.2",
+    "detector": "DCTR+FLD",
+    "payload_bpnzac": 0.2,
+    "n_images": 2000,
+    "p_e_mean": 0.4803,
+    "p_e_std": 0.006500769185257996,
+    "p_e_per_seed": [
+      0.4765,
+      0.47250000000000003,
+      0.484,
+      0.491,
+      0.4775
+    ],
+    "p_e_reversed_mean": 0.4968,
+    "md_at_fa1_mean": 0.9856,
+    "md_at_fa1_std": 0.0038262252939418014,
+    "n_train_pairs": 1000,
+    "n_test_pairs": 1000,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

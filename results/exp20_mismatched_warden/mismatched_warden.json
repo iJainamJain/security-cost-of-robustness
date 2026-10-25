@@ -1,0 +1,122 @@
+[
+  {
+    "method": "SCRIPT",
+    "target_payload": 0.01,
+    "covers": 20,
+    "trained_at": 0.05,
+    "single_p_e": 0.4709418837675351,
+    "batch_p_e": 0.47203333333333325,
+    "matched_single_p_e": 0.4766,
+    "matched_batch_p_e": 0.4282
+  },
+  {
+    "method": "SCRIPT",
+    "target_payload": 0.02,
+    "covers": 10,
+    "trained_at": 0.05,
+    "single_p_e": 0.39609218436873744,
+    "batch_p_e": 0.3488,
+    "matched_single_p_e": 0.4,
+    "matched_batch_p_e": 0.29269999999999996
+  },
+  {
+    "method": "SCRIPT",
+    "target_payload": 0.01,
+    "covers": 20,
+    "trained_at": 0.1,
+    "single_p_e": 0.49769539078156316,
+    "batch_p_e": 0.49176666666666663,
+    "matched_single_p_e": 0.4766,
+    "matched_batch_p_e": 0.4282
+  },
+  {
+    "method": "SCRIPT",
+    "target_payload": 0.02,
+    "covers": 10,
+    "trained_at": 0.1,
+    "single_p_e": 0.4695390781563126,
+    "batch_p_e": 0.4749,
+    "matched_single_p_e": 0.4,
+    "matched_batch_p_e": 0.29269999999999996
+  },
+  {
+    "method": "GMAS",
+    "target_payload": 0.01,
+    "covers": 20,
+    "trained_at": 0.05,
+    "single_p_e": 0.4373,
+    "batch_p_e": 0.33953333333333335,
+    "matched_single_p_e": 0.4448,
+    "matched_batch_p_e": 0.2989666666666667
+  },
+  {
+    "method": "GMAS",
+    "target_payload": 0.02,
+    "covers": 10,
+    "trained_at": 0.05,
+    "single_p_e": 0.35749999999999993,
+    "batch_p_e": 0.2702,
+    "matched_single_p_e": 0.3619,
+    "matched_batch_p_e": 0.24780000000000002
+  },
+  {
+    "method": "GMAS",
+    "target_payload": 0.01,
+    "covers": 20,
+    "trained_at": 0.1,
+    "single_p_e": 0.4777,
+    "batch_p_e": 0.453,
+    "matched_single_p_e": 0.4448,
+    "matched_batch_p_e": 0.2989666666666667
+  },
+  {
+    "method": "GMAS",
+    "target_payload": 0.02,
+    "covers": 10,
+    "trained_at": 0.1,
+    "single_p_e": 0.4441,
+    "batch_p_e": 0.4327,
+    "matched_single_p_e": 0.3619,
+    "matched_batch_p_e": 0.24780000000000002
+  },
+  {
+    "method": "ROAST",
+    "target_payload": 0.01,
+    "covers": 20,
+    "trained_at": 0.05,
+    "single_p_e": 0.23969999999999997,
+    "batch_p_e": 0.0008333333333333333,
+    "matched_single_p_e": 0.1747,
+    "matched_batch_p_e": 0.0
+  },
+  {
+    "method": "ROAST",
+    "target_payload": 0.02,
+    "covers": 10,
+    "trained_at": 0.05,
+    "single_p_e": 0.1935,
+    "batch_p_e": 0.0153,
+    "matched_single_p_e": 0.1555,
+    "matched_batch_p_e": 0.0033
+  },
+  {
+    "method": "ROAST",
+    "target_payload": 0.01,
+    "covers": 20,
+    "trained_at": 0.1,
+    "single_p_e": 0.4205,
+    "batch_p_e": 0.23943333333333333,
+    "matched_single_p_e": 0.1747,
+    "matched_batch_p_e": 0.0
+  },
+  {
+    "method": "ROAST",
+    "target_payload": 0.02,
+    "covers": 10,
+    "trained_at": 0.1,
+    "single_p_e": 0.3822,
+    "batch_p_e": 0.2921,
+    "matched_single_p_e": 0.1555,
+    "matched_batch_p_e": 0.0033
+  }
+]
