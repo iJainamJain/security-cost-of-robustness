@@ -1,5 +1,7 @@
 # The Security Cost of Robustness — code and results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23639889.svg)](https://doi.org/10.5281/zenodo.23639889)
+
 Code, patches and result files for:
 
 > J. Jain, S. P. Patil, A. S. Deshmukh, H. M. Shinde, N. Mahajan,
